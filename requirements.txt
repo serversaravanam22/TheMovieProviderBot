@@ -1,4 +1,8 @@
-pyrofork=2.0.30 
+pyrofork==2.0.30
+flask==2.2.3
+requests==2.28.1
+#Add other dependencies here
+
  tgcrypto 
  pymongo[srv]==3.12.3 
  motor==2.5.1 
